@@ -1,0 +1,32 @@
+_repo: The-School-and-Society-Being-three-lectures_53910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'University of Chicago. University Elementary School'
+- !lcsh 'Educational psychology'
+- !lcsh 'Education'
+- !lcsh 'Education -- Philosophy'
+- GITenberg
+tableOfContents: The school and social progress -- The school and the life of the
+  child -- Waste in education -- Three years of the University Elementary School.
+title: 'The School and Society
+
+  Being three lectures'
+url: http://www.gutenberg.org/ebooks/53910
